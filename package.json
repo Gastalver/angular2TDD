@@ -1,0 +1,26 @@
+{
+  "name": "angular2tdd",
+  "version": "1.0.0",
+  "description": "Ejercicios de TDD",
+  "main": "calculator.js",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gastalver/angular2TDD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gastalver/angular2TDD/issues"
+  },
+  "homepage": "https://github.com/Gastalver/angular2TDD#readme"
+}
