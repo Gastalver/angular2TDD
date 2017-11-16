@@ -4,11 +4,14 @@
   "description": "Ejercicios de TDD",
   "main": "calculator.js",
   "dependencies": {
-    "jasmine": "^2.8.0",
-    "nodemon": "^1.12.1"
+
   },
   "devDependencies": {
-    "mocha": "^4.0.1"
+    "nodemon": "^1.12.1",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
   },
   "scripts": {
     "test": "jasmine"
